@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <string-array name="categories">
+
+        <item>Category</item>
+        <item>Housing</item>
+        <item>Bills, Utilities</item>
+        <item>Food, Dining</item>
+        <item>Auto, Transport</item>
+        <item>Fees, Charges</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+
+    </string-array>
+    <string name="title_activity_add_spending">AddSpendingActivity</string>
+</resources>
